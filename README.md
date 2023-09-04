@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @zaq345 (Alex, student)
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning basics of web development
+- I’m @zaq345 (Alex, student)
+- I’m interested in web development
+- I’m learning web development
 
 
 <!---
