@@ -1,6 +1,5 @@
-- I’m @zaq345 (Alex, student)
-- I’m interested in web development
-- I’m learning web development
+- I’m @zaq345 (Alex, fullstack)
+- I’m working and learning  web development
 
 
 <!---
